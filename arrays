@@ -1,0 +1,7 @@
+#!/bin/sh
+
+arr = ("Dog" "Cat" "Birds" "Insects") #Declaring an array
+echo "{$arr[@]}" #Printing all the elements in the array
+
+
+#output- Dog Cat Birds Insects
